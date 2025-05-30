@@ -15,9 +15,9 @@
 
 > **Software Engineer @ Base Layer** (Feb 2025 – Present)
 >
-> • Engineered a **scalable ETL pipeline** with **Python + Apache Beam**, inputting Data into Google Cloud **PostgreSQL** in minutes.<br/>
-> • Wove in **Pydantic** validation, **Airflow** DAG orchestration, and Sun‑size parallelism to crunch billions of rows without breaking a sweat.<br/>
-> • Champion of clean code reviews, GitHub Actions automation, and incident‑free deploys.
+> • Designed and maintain high‑throughput ETL pipelines using Python and Apache Beam, delivering Secretary‑of‑State datasets to Google Cloud PostgreSQL within strict SLAs.
+> • Embedded Pydantic validation and Airflow orchestration to guarantee data integrity and reliable, repeatable workflows.
+> • Lead code reviews and CI/CD automation with GitHub Actions, achieving zero‑downtime production releases.
 
 ---
 
@@ -25,7 +25,7 @@
 
 | Period                               | Role & Company          | Highlights                                                                                                                                               |
 | ------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <strong>Oct 2024 – Feb 2025</strong> | **QA Engineer – Mobot** | • Built test plans for iOS / Android apps using AI‑driven robots 🤖<br/>• Crafted Python Postman/GraphQL automations & device‑farm tooling               |
+| <strong>Oct 2024 – Feb 2025</strong> | **QA Engineer – Mobot** | • Built test plans for iOS / Android apps using AI‑driven robots 🤖<br/>• Crafted Python Postman/GraphQL automations                                     |
 | <strong>Aug 2023 – Aug 2024</strong> | **SDET – Ansys**        | • Ran cross‑platform regression suites & wrote Python/Javascript harnesses.<br/>• Migrated legacy PHP/SQL site & automated Win/Linux maintenance scripts |
 
 ---
