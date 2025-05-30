@@ -55,7 +55,7 @@
 | --------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **JavaLens**          | Java • JavaFX • Pcap4j • PostgreSQL                 | Real‑time Wireshark‑style packet sniffer with a SuspiciousPacket detector and port‑mirrored home network lab    |
 | **PPP Data Analyzer** | Python • FastAPI • Docker • Playwright • PostgreSQL | Containerised pipeline scraping SBA PPP data, Pydantic‑validated ETL, and an interactive Nginx‑served dashboard |
-| **Tafkir**            | FastAPI • Redis • Next.js • PostgreSQL              | NYT‑style Arabic word‑game suite (Wordle, Spelling Bee, Connections) – coming soon!                             |
+| **Tafkir**            | FastAPI • Redis • Next.js • PostgreSQL (AWS RDS)    | NYT‑style Arabic word‑game suite (Wordle, Spelling Bee, Connections)                                            |
 
 ---
 
