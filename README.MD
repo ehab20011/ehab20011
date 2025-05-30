@@ -65,15 +65,5 @@
   • Leadership: Code For All, ColorStack, ALPFA QC, DICE, Code.ReSolve()<br/>
   • Certifications: CodePath Cyber Security & Technical Interview Prep
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehababdalla&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehababdalla&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
 
 <p align="center"><i>“Build, break, learn, repeat.”</i></p>
