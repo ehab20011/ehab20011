@@ -1,6 +1,6 @@
 
 <h1 align="center">Hey there, I'm <span style="color:#38bdf8;">Ehab Abdalla</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
-<p align="center"><samp>Software Engineer • Data Engineer • SDET • Cyber‑security tinkerer</samp></p>
+<p align="center"><samp>Software Engineer • Data Engineer </samp></p>
 
 <p align="center">
   <a href="mailto:ehababdalla03@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
