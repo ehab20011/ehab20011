@@ -15,7 +15,7 @@
 
 > **Software Engineer @ Base Layer** (Feb 2025 – Present)
 >
-> • Engineered a **scalable ETL pipeline** with **Python + Apache Beam**, normalizing ✨45 GB TX SOS data✨ into Google Cloud **PostgreSQL** in minutes.<br/>
+> • Engineered a **scalable ETL pipeline** with **Python + Apache Beam**, inputting Data into Google Cloud **PostgreSQL** in minutes.<br/>
 > • Wove in **Pydantic** validation, **Airflow** DAG orchestration, and Sun‑size parallelism to crunch billions of rows without breaking a sweat.<br/>
 > • Champion of clean code reviews, GitHub Actions automation, and incident‑free deploys.
 
