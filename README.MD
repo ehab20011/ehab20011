@@ -29,8 +29,7 @@
 | Period                               | Role & Company          | Highlights                                                                                                                                               |
 | ------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <strong>Oct 2024 – Feb 2025</strong> | **QA Engineer – Mobot** | • Performed exploratory manual testing for iOS and Android apps across real devices.<br/>• Built and maintained test plans using AI‑driven robotic testing platforms.<br/>• Developed Python automation scripts integrating Postman and GraphQL for apps like Chime. |
-| <strong>Aug 2023 – Aug 2024</strong> | **SDET – Ansys**        | • Ran cross‑platform regression suites & wrote Python/Javascript harnesses.<br/>• Migrated legacy PHP/SQL site & automated Win/Linux maintenance scripts |
-
+| <strong>Aug 2023 – Aug 2024</strong> | **SDET – Ansys**        | • Ran test workflows across diverse hardware setups (e.g. AMD, NVIDIA) to ensure Ansys software compatibility and performance.<br/>• Built Python scripts for verification testing, simulating automated scenarios with results fed into internal Ansys ARM tooling.<br/>• Helped migrate a legacy PHP/SQL web app for a computer borrowing lab by cleaning up database queries and modernizing backend code. |
 ---
 
 ## 🧰 Tech Stack
