@@ -11,13 +11,16 @@
 
 ---
 
-## 🚀 Current Mission
+## Current Position
 
 > **Software Engineer @ Base Layer** (Feb 2025 – Present)
 >
-> • Designed and maintain high‑throughput ETL pipelines using Python and Apache Beam, delivering Secretary‑of‑State datasets to Google Cloud PostgreSQL within strict SLAs.
-> • Embedded Pydantic validation and Airflow orchestration to guarantee data integrity and reliable, repeatable workflows.
-> • Lead code reviews and CI/CD automation with GitHub Actions, achieving zero‑downtime production releases.
+> • Engineered scalable ETL pipelines using Python and Apache Beam to ingest and validate Secretary‑of‑State datasets with 10M+ records under strict SLAs.
+> • Integrated Pydantic validation and Airflow DAGs to orchestrate GCP Dataflow jobs and ensure schema integrity.
+> • Performed PostgreSQL migrations, schema versioning, and index tuning to reduce query latency across production.
+> • Built Playwright-based scraping workflows and integrated data from IPOP, SFTP, and FTP sources.
+> • Led code reviews and built CI/CD workflows with GitHub Actions to automate testing, linting, and staging/production deploys.
+> • Collaborated across GitHub and Slack to resolve incidents, coordinate deploys, and maintain multi-environment stability.
 
 ---
 
@@ -25,7 +28,7 @@
 
 | Period                               | Role & Company          | Highlights                                                                                                                                               |
 | ------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <strong>Oct 2024 – Feb 2025</strong> | **QA Engineer – Mobot** | • Built test plans for iOS / Android apps using AI‑driven robots 🤖<br/>• Crafted Python Postman/GraphQL automations                                     |
+| <strong>Oct 2024 – Feb 2025</strong> | **QA Engineer – Mobot** | • Performed exploratory manual testing for iOS and Android apps across real devices.<br/>• Built and maintained test plans using AI‑driven robotic testing platforms.<br/>• Developed Python automation scripts integrating Postman and GraphQL for apps like Chime. |
 | <strong>Aug 2023 – Aug 2024</strong> | **SDET – Ansys**        | • Ran cross‑platform regression suites & wrote Python/Javascript harnesses.<br/>• Migrated legacy PHP/SQL site & automated Win/Linux maintenance scripts |
 
 ---
