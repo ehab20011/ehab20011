@@ -66,6 +66,3 @@
 * **B.S. Computer Science**, CUNY Queens College – Dec 2024<br/>
   • Leadership: Code For All, ColorStack, ALPFA QC, DICE, Code.ReSolve()<br/>
   • Certifications: CodePath Cyber Security & Technical Interview Prep
-
-
-<p align="center"><i>“Build, break, learn, repeat.”</i></p>
