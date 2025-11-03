@@ -14,12 +14,8 @@
 ## Current Position
 
 > **Software Engineer @ Base Layer** (Feb 2025 – Present)
->
-> • Created scalable ETL pipelines using Python and Apache Beam to ingest Secretary of State (SOS) data, applied validation and normalization with Pydantic, leverage Beam for parallel processing of large files, and created data workflows as DAGs in Airflow to load clean records into a PostgreSQL database on Google cloud.
-> • Designed and deployed RESTful APIs with FastAPI, using Pydantic for request/response validation, and containerized the service with Docker for deployment on a Google Cloud VM, enabling access to validated SOS data for our customers and other downstream services.
-> • Designed and optimized PostgreSQL databases with SQLAlchemy, defining schemas, relationships, indexes, and constraints to ensure data integrity, scalability, and efficient query performance for SOS pipelines and APIs.
-> • Collaborated with team members using GitHub for version control and code reviews, and leveraged Slack for real-time communication, deployment coordination, and incident tracking.
-> • Led code reviews and built CI/CD workflows with GitHub Actions to automate testing, linting, and staging/production deploys.
+
+> • ETL Pipelines, APIs, PostgreSQL, and backend-engineering.
 
 ---
 
