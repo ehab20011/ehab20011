@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there, I'm <span style="color:#38bdf8;">Ehab Abdalla</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
+<h1 align="center">Hey there, I'm <span style="color:#38bdf8;">Ehab</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 <p align="center"><samp>Software Engineer • Data Engineer </samp></p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ---
 
-## Current Position - Software Engineer @ Base Layer** (Feb 2025 – Present) - ETL Pipelines, APIs, PostgreSQL, and backend-engineering.
+## Current Position -- Software Engineer @ Base Layer** (Feb 2025 – Present) -- ETL Pipelines, APIs, PostgreSQL, and backend-engineering.
 
 ---
 
