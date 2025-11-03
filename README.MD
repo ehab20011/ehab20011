@@ -11,15 +11,11 @@
 
 ---
 
-## Current Position
-
-> **Software Engineer @ Base Layer** (Feb 2025 – Present)
-
-> • ETL Pipelines, APIs, PostgreSQL, and backend-engineering.
+## Current Position - Software Engineer @ Base Layer** (Feb 2025 – Present) - ETL Pipelines, APIs, PostgreSQL, and backend-engineering.
 
 ---
 
-## 💼 Previous Experience
+## Previous Experience
 
 | Period                               | Role & Company          | Highlights                                                                                                                                               |
 | ------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +23,7 @@
 | <strong>Aug 2023 – Aug 2024</strong> | **SDET – Ansys**        | • Ran test workflows across diverse hardware setups (e.g. AMD, NVIDIA) to ensure Ansys software compatibility and performance.<br/>• Built Python scripts for verification testing, simulating automated scenarios with results fed into internal Ansys ARM tooling.<br/>• Helped migrate a legacy PHP/SQL web app for a computer borrowing lab by cleaning up database queries and modernizing backend code. |
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -52,7 +48,6 @@
 | --------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **JavaLens**          | Java • JavaFX • Pcap4j • PostgreSQL                 | Real‑time Wireshark‑style packet sniffer with a SuspiciousPacket detector and port‑mirrored home network lab    |
 | **PPP Data Analyzer** | Python • FastAPI • Docker • Playwright • PostgreSQL | Containerised pipeline scraping SBA PPP data, Pydantic‑validated ETL, and an interactive Nginx‑served dashboard |
-| **Tafkir**            | FastAPI • Redis • Next.js • PostgreSQL (AWS RDS)    | NYT‑style Arabic word‑game suite (Wordle, Spelling Bee, Connections)                                            |
 
 ---
 
