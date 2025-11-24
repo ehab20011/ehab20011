@@ -7,7 +7,7 @@
 
 ---
 
-## Current Position -- Software Engineer @ Base Layer** (Feb 2025 – Present) -- ETL Pipelines, APIs, PostgreSQL, and backend-engineering.
+## Software Engineer @ Base Layer
 
 ---
 
