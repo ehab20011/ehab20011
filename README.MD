@@ -7,19 +7,21 @@
 
 ---
 
-## Software Engineer @ Base Layer
+## Software Engineer @ Base Layer  
 
 ---
 
-## Previous Experience
+## Professional Experience
 
-| Period                               | Role & Company          | Highlights                                                                                                                                               |
-| ------------------------------------ | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <strong>Oct 2024 – Feb 2025</strong> | **QA Engineer – Mobot** | • Performed exploratory manual testing for iOS and Android apps across real devices.<br/>• Built and maintained test plans using AI‑driven robotic testing platforms.<br/>• Developed Python automation scripts integrating Postman and GraphQL for apps like Chime. |
-| <strong>Aug 2023 – Aug 2024</strong> | **SDET – Ansys**        | • Ran test workflows across diverse hardware setups (e.g. AMD, NVIDIA) to ensure Ansys software compatibility and performance.<br/>• Built Python scripts for verification testing, simulating automated scenarios with results fed into internal Ansys ARM tooling.<br/>• Helped migrate a legacy PHP/SQL web app for a computer borrowing lab by cleaning up database queries and modernizing backend code. |
+| Period | Role & Company | Highlights |
+|--------|----------------|------------|
+| <strong>Jan 2025 – Present</strong> | <strong>Software Engineer – Base Layer</strong> | • Built ETL pipelines (Python, Beam, Dataflow, Pydantic).<br/>• Developed FastAPI services deployed on GCP VMs using Docker.<br/>• Built automated data aggregators using Playwright and Cloud Run Jobs. |
+| <strong>Aug 2025 – Present</strong> | <strong>Software Engineer – real-swe</strong> | • Built a full-stack engineering education platform with debugging challenges, repo quizzes, and daily project generators.<br/>• Developed backend (FastAPI, SQLAlchemy, Redis, PostgreSQL) with scalable job pipelines and authentication.<br/>• Built a Next.js + TypeScript frontend with a Monaco IDE and Judge0 for secure multi-file execution. |
+| <strong>Aug 2023 – Aug 2024</strong> | <strong>Software Engineer in Test (SDET) – Ansys</strong> | • Executed manual and regression testing across diverse hardware setups.<br/>• Built Python automation for Ansys ARM and expanded Pytest coverage.<br/>• Migrated a Windows Server 2019 → 2022 system, improving SQL performance dramatically. |
+
 ---
 
-## Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,28 +29,31 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Beam-FF6F00?style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
 </p>
 
 ---
 
-## 🧑‍💻 Featured Projects
+## 🧑‍💻 Featured Projects
 
-| Project               | Stack                                               | TL;DR                                                                                                           |
-| --------------------- | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| **JavaLens**          | Java • JavaFX • Pcap4j • PostgreSQL                 | Real‑time Wireshark‑style packet sniffer with a SuspiciousPacket detector and port‑mirrored home network lab    |
-| **PPP Data Analyzer** | Python • FastAPI • Docker • Playwright • PostgreSQL | Containerised pipeline scraping SBA PPP data, Pydantic‑validated ETL, and an interactive Nginx‑served dashboard |
+| Project | Stack | TL;DR |
+|--------|-------|--------|
+| **JavaLens** | Java • JavaFX • Pcap4j • PostgreSQL | Wireshark-style packet sniffer with suspicious-packet detection and live home-network port-mirroring capture. |
+| **PPP Data Analyzer** | Python • FastAPI • Docker • Beam • Playwright • PostgreSQL | Containerized ETL pipeline scraping SBA PPP data, with Pydantic validation and an Nginx-served interactive dashboard. |
+| **real-swe Platform** | FastAPI • Next.js • Judge0 • Redis • PostgreSQL | Full-stack engineering platform with debugging challenges, daily project generators, repo quizzes, and a Monaco IDE. |
 
 ---
 
 ## 🎓 Education & Certifications
 
-* **B.S. Computer Science**, CUNY Queens College – Dec 2024<br/>
-  • Leadership: Code For All, ColorStack, ALPFA QC, DICE, Code.ReSolve()<br/>
-  • Certifications: CodePath Cyber Security & Technical Interview Prep
+**B.S. Computer Science – CUNY Queens College (Dec 2024)**  
+• Leadership: Code For All, ColorStack, ALPFA QC, DICE, Code.ReSolve()  
+• Certifications: CodePath Cybersecurity, CodePath Technical Interview Prep
