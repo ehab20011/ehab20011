@@ -16,7 +16,6 @@
 | Period | Role & Company | Highlights |
 |--------|----------------|------------|
 | <strong>Jan 2025 – Present</strong> | <strong>Software Engineer – Base Layer</strong> | • Built ETL pipelines (Python, Beam, Dataflow, Pydantic).<br/>• Developed FastAPI services deployed on GCP VMs using Docker.<br/>• Built automated data aggregators using Playwright and Cloud Run Jobs. |
-| <strong>Aug 2025 – Present</strong> | <strong>Software Engineer – real-swe</strong> | • Built a full-stack engineering education platform with debugging challenges, repo quizzes, and daily project generators.<br/>• Developed backend (FastAPI, SQLAlchemy, Redis, PostgreSQL) with scalable job pipelines and authentication.<br/>• Built a Next.js + TypeScript frontend with a Monaco IDE and Judge0 for secure multi-file execution. |
 | <strong>Aug 2023 – Aug 2024</strong> | <strong>Software Engineer in Test (SDET) – Ansys</strong> | • Executed manual and regression testing across diverse hardware setups.<br/>• Built Python automation for Ansys ARM and expanded Pytest coverage.<br/>• Migrated a Windows Server 2019 → 2022 system, improving SQL performance dramatically. |
 
 ---
@@ -46,6 +45,7 @@
 
 | Project | Stack | TL;DR |
 |--------|-------|--------|
+| **real-swe Platform** | FastAPI • Next.js • Judge0 • Redis • PostgreSQL | Full-stack engineering platform with debugging challenges, daily project generators, repo quizzes, and a Monaco IDE. |
 | **JavaLens** | Java • JavaFX • Pcap4j • PostgreSQL | Wireshark-style packet sniffer with suspicious-packet detection and live home-network port-mirroring capture. |
 | **PPP Data Analyzer** | Python • FastAPI • Docker • Beam • Playwright • PostgreSQL | Containerized ETL pipeline scraping SBA PPP data, with Pydantic validation and an Nginx-served interactive dashboard. |
 
