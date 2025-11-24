@@ -48,7 +48,6 @@
 |--------|-------|--------|
 | **JavaLens** | Java • JavaFX • Pcap4j • PostgreSQL | Wireshark-style packet sniffer with suspicious-packet detection and live home-network port-mirroring capture. |
 | **PPP Data Analyzer** | Python • FastAPI • Docker • Beam • Playwright • PostgreSQL | Containerized ETL pipeline scraping SBA PPP data, with Pydantic validation and an Nginx-served interactive dashboard. |
-| **real-swe Platform** | FastAPI • Next.js • Judge0 • Redis • PostgreSQL | Full-stack engineering platform with debugging challenges, daily project generators, repo quizzes, and a Monaco IDE. |
 
 ---
 
