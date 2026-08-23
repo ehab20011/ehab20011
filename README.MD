@@ -1,34 +1,51 @@
-<img src="./banner.svg" width="100%" alt="Ehab Abdalla — backend engineer, NYC. 300M records/week, 320ms query p50, 50+ cloud run jobs." />
-
-I design and run large-scale data pipelines at [Base Layer](https://www.baselayer.com). Off the clock I'm building [real-swe.com](https://www.real-swe.com) — practice software engineering the way it actually works: real codebases, real debugging, no puzzles.
-
-### The system, roughly
-
-```mermaid
-flowchart LR
-    subgraph ingest [" ingest "]
-        A[50 states of<br/>business filings] --> B[Playwright fleet<br/>Cloud Run · proxies]
-    end
-    subgraph transform [" transform "]
-        B --> C[Apache Beam<br/>Dataflow · Pydantic]
-    end
-    subgraph serve [" serve "]
-        C --> D[(PostgreSQL<br/>1.2 TB)]
-        D --> E[FastAPI<br/>12k req/day]
-    end
-    C -. "200–300M records/week" .-> D
-    F([me, on call<br/>sentry · incident.io]) -.-> B & C & D & E
+```
+$ git log --oneline --graph ehab/main
 ```
 
-### Shipped
+```
+* f4a2b91 (HEAD -> main, origin/main) feat(real-swe): ship the daily project generator
+* e1c8d02 feat(freelance): karika motors — luxury rental fleet, cairo
+* 9b3f6ae perf(postgres): the queries are fast now. don't ask what they were before
+* 8d21e07 feat(nyc): join base layer as software engineer II
+*   3e77b12 merge branch 'college' into main
+|\
+| * b4a9910 docs: B.S. in computer science — CUNY queens college
+| * 7aa5138 test(ansys): SDET internship. broke things professionally
+|/
+* c0ffee1 refactor(career): stop grinding puzzles, start shipping products
+* 91b0de3 feat(guitar): learn patience, timing, and playing well with others
+* 0000001 initial commit — cairo → queens
+```
 
-|  |  |
-|---|---|
-| [**real-swe**](https://www.real-swe.com) | full-stack SWE practice platform — FastAPI, Postgres, Redis, Monaco IDE, Judge0 sandboxed execution, Stripe billing |
-| [**Karika Motors**](https://karikamotors.com) | luxury car-rental fleet in Cairo — filterable fleet, WhatsApp reservation flow |
-| [**JavaLens**](https://github.com/ehab20011/java-lens-mac) | JavaFX packet sniffer with a Wireshark-style UI; port-mirrored a managed switch to capture a whole home network into Postgres |
-| [**PPP Data Analyzer**](https://github.com/ehab20011/baselayer) | containerized ETL over millions of PPP loans, natural-language → SQL querying |
+```
+$ git status
+```
 
-### Reach me
+```
+On branch main
+Your branch is ahead of 'comfort-zone' by 47 commits.
 
-[LinkedIn](https://www.linkedin.com/in/ehab-abdalla-04ab411b3/) · [ehababdalla03@gmail.com](mailto:ehababdalla03@gmail.com)
+Changes not staged for commit:
+  modified:   real-swe        (new challenges every week)
+  modified:   postgres-tricks (ongoing, incurable)
+
+Untracked files:
+  side-project-idea-24/
+```
+
+```
+$ git remote -v
+```
+
+| remote | url | |
+|---|---|---|
+| `work` | [baselayer.com](https://www.baselayer.com) | push |
+| `building` | [real-swe.com](https://www.real-swe.com) | push |
+| `shipped` | [karikamotors.com](https://karikamotors.com) · [JavaLens](https://github.com/ehab20011/java-lens-mac) · [PPP Analyzer](https://github.com/ehab20011/baselayer) | push |
+| `linkedin` | [ehab-abdalla](https://www.linkedin.com/in/ehab-abdalla-04ab411b3/) | fetch |
+| `email` | [ehababdalla03@gmail.com](mailto:ehababdalla03@gmail.com) | fetch |
+
+```
+$ git push origin main
+Everything up-to-date.   (it never is)
+```
