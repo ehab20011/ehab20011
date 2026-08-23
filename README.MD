@@ -12,9 +12,6 @@ $ git log --oneline --graph ehab/main
 | * b4a9910 docs: B.S. in computer science — CUNY queens college
 | * 7aa5138 test(ansys): SDET internship. broke things professionally
 |/
-* c0ffee1 refactor(career): stop grinding puzzles, start shipping products
-* 91b0de3 feat(guitar): learn patience, timing, and playing well with others
-* 0000001 initial commit — cairo → queens
 ```
 
 ```
